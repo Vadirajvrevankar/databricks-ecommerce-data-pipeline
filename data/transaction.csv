@@ -1,0 +1,13 @@
+transaction_id,customer_id,product,category,quantity,unit_price,payment_method,status,transaction_date
+T1001,C001,Laptop,Electronics,1,55000,UPI,Success,2026-08-01
+T1002,C002,Mouse,Electronics,2,800,Card,Success,2026-08-01
+T1003,C003,Keyboard,Electronics,1,1500,UPI,Failed,2026-08-01
+T1004,C001,Monitor,Electronics,1,15000,Card,Success,2026-08-02
+T1005,C004,Office_Chair,Furniture,2,5000,UPI,Success,2026-08-02
+T1006,C005,Office_Desk,Furniture,1,12000,NetBanking,Success,2026-08-03
+T1007,C002,Mouse,Electronics,1,800,Card,Success,2026-08-03
+T1008,C006,Mobile,Electronics,1,30000,UPI,Success,2026-08-03
+T1009,C007,Dining_Table,Furniture,1,7000,Card,Failed,2026-08-04
+T1010,C008,Headphones,Electronics,2,2500,UPI,Success,2026-08-04
+T1011,C009,Keyboard,Electronics,1,1500,Card,Success,2026-08-04
+T1012,C010,Office_Chair,Furniture,1,5000,UPI,Success,2026-08-05
